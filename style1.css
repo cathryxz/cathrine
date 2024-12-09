@@ -1,0 +1,46 @@
+body{
+    font-family:monospace, serif; 
+    background-color: rgb(255, 240, 240); 
+    color: black;
+    box-sizing: border-box;
+
+
+}
+
+header{
+    background-color: rgb(255, 152, 152); 
+    text-align: center; 
+    padding: 20px; 
+    color :beige; 
+    display: flex;
+    justify-content: center;
+}
+
+nav{
+    background-color: rgb(189, 94, 94); 
+    color: azure; 
+    justify-content: center;
+    padding: 10px; 
+    display: flex;
+}
+h4{
+    margin-bottom: 0%;
+}
+img{
+    border-radius: 20px;
+}
+.logo{
+    align-items: center; 
+    justify-content: space-between; 
+    padding: 10px 20px;
+}
+
+a{
+    margin-right: 50px;
+    margin-left: 10px;
+    padding : 10px;
+}
+
+footer{
+    background-color: rgb(255, 152, 152); text-align: center;
+}
